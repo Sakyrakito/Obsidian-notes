@@ -1,0 +1,2 @@
+# Obsidian-notes
+Заметки obsidian
