@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "ddee24613535edc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "028112835d9f336d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75beed4cdb8c8707",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Когнитивное восприятие/2025-09-06 Ошибки мышления, способные разорить.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-06 Ошибки мышления, способные разорить"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7bf49819f131504b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7736418ccd5655b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a636201da0b3e5a9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9af8d4c89bd3c482",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "1b40fc14630a6ed2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "fb558f15aa24b745",
+    "type": "split",
+    "children": [
+      {
+        "id": "3953d09c8c30c4e0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3f153a372e89376",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Когнитивное восприятие/2025-08-31 Мифы о пропаганде.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-08-31 Мифы о пропаганде"
+            }
+          },
+          {
+            "id": "07dd72274021909a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Когнитивное восприятие/2025-08-31 Мифы о пропаганде.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 2025-08-31 Мифы о пропаганде"
+            }
+          },
+          {
+            "id": "d9b7ec0cad8f906f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "677f47cc2dbfafca",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Когнитивное восприятие/2025-08-31 Мифы о пропаганде.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 2025-08-31 Мифы о пропаганде"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "audio-recorder:Start/stop recording": false
+    }
+  },
+  "active": "75beed4cdb8c8707",
+  "lastOpenFiles": [
+    "Когнитивное восприятие/2025-08-31 Мифы о пропаганде.md",
+    "Когнитивное восприятие/2025-09-02 Хорошие приёмы коммуникации.md",
+    "Когнитивное восприятие/2025-09-06 Ошибки мышления, способные разорить.md",
+    "Программирование/Спортивное программирование/Codeforces/Codeforces 2107 D.md",
+    "Программирование/Спортивное программирование/Codeforces/Codeforces 2108 D.md",
+    "Программирование/Спортивное программирование/Алгоритмы и структуры данных/корневая декомпозиция (sqrt-декомпозиция).md",
+    "Программирование/Спортивное программирование/Алгоритмы и структуры данных/хэш строк.md",
+    "Программирование/Спортивное программирование/Алгоритмы и структуры данных/дерево Фенвика.md",
+    "Программирование/Спортивное программирование/Алгоритмы и структуры данных/дерево отрезков 2.md",
+    "Программирование/Спортивное программирование/Алгоритмы и структуры данных/дерево отрезков.md",
+    "Программирование/Спортивное программирование/Алгоритмы и структуры данных/алгоритм Диница (Dinic).md",
+    "Программирование/Спортивное программирование/Алгоритмы и структуры данных/бинарный поиск.md",
+    "Программирование/Спортивное программирование/Алгоритмы и структуры данных/СНМ.md",
+    "Templates/Problem task competitive programming.md",
+    "Templates/Daily note.md",
+    "().md",
+    "Когнитивное восприятие/Понятия/Когнитивное искажение.md",
+    "Recording 20250830213858.m4a",
+    "Программирование/Спортивное программирование/Алгоритмы и структуры данных",
+    "Программирование/Спортивное программирование/Алгоритмы и структуры данных.md",
+    "Программирование/Спортивное программирование/Codeforces",
+    "Программирование/Спортивное программирование",
+    "Программирование/Untitled.md",
+    "Программирование",
+    "Когнитивное восприятие/Понятия/Эгоцентрическое искажение.md",
+    "Когнитивное восприятие/Понятия",
+    "Когнитивное восприятие/Понятия/Гало-эффект (Эффект ореола).md",
+    "Когнитивное восприятие/Понятия/Эгоистическое предубеждение.md",
+    "Когнитивное восприятие/Понятия/Проекция текущего образа мыслей в прошлое.md",
+    "Когнитивное восприятие/Понятия/Когнитивность.md",
+    "Daily notes/2025-08-30.md",
+    "Когнитивное восприятие",
+    "asda.md",
+    "Daily notes",
+    "Untitled.canvas",
+    "Templates"
+  ]
+}
