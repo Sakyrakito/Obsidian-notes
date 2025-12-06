@@ -1,15 +1,16 @@
 >[!info]
->алгоритм по нахождению максимального потока
+>алгоритм по нахождению максимального потока на ориентированном графе
 
 ```c++
 struct Edge {
     int to, cap, rev;
-    
+
     Edge(int _to, int _cap, int _rev) :
         to(_to),
         cap(_cap),
-        rev(_rev) 
-    {}
+        rev(_rev)
+    {
+    }
 };
 
 struct Dinic {
@@ -17,9 +18,9 @@ struct Dinic {
     vector<int> level, it;
 
     Dinic(int sz) :
-        g(sz), 
-        level(sz, -1), 
-        it(sz, 0) 
+        g(sz),
+        level(sz, -1),
+        it(sz, 0)
     {}
 
     void addEdge(int u, int v, int c) {
@@ -58,7 +59,7 @@ struct Dinic {
         if (v == t)
             return f;
 
-        for (int i = it[v]; i < g[v].size(); i++) {
+        for (int &i = it[v]; i < g[v].size(); i++) {
             Edge& e = g[v][i];
 
             if (e.cap > 0 && level[e.to] == level[v] + 1) {
@@ -81,10 +82,11 @@ struct Dinic {
         while (bfs(s, t)) {
             fill(it.begin(), it.end(), 0);
 
-            while (int p = dfs(s, t, INF)) 
+            while (int p = dfs(s, t, INF))
                 flow += p;
         }
 
         return flow;
     }
+};
 ```
