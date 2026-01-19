@@ -8,4 +8,4 @@
 ---
 
 Задачи на эту тему:
-[[Codeforces 105053 F - Fair Distribution]]
+[[Codeforces F 105053 - Fair Distribution]]

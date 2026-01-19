@@ -1,6 +1,6 @@
 # Дата - 2026-01-18
 
-[Ссылка на задачу]([https://codeforces.com/contests](https://codeforces.com/contest/2183/problem/E))
+[Ссылка на задачу](https://codeforces.com/contest/2183/problem/E)
 
 Tags: #спортивное_программирование #дп #математика #комбинаторика #теория_чисел 
 
