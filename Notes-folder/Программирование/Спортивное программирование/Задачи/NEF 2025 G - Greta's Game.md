@@ -56,8 +56,7 @@ x_{2} \\
 x_{3} \\
 \dots \\
 x_{n}
-\end{pmatrix}
-=
+\end{pmatrix} =
 \begin{pmatrix}
 a_{1} \\
 a_{2} \\
