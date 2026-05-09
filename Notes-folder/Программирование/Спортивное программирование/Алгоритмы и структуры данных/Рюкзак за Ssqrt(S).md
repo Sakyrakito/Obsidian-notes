@@ -6,6 +6,18 @@
 
 
 ---
+Пример кода на c++
+```c++
+vector<int> vc; // сокращаем рюкзак
+for (auto [val, count] : cnt2) {
+    for (int k = 1; count > 0; k <<= 1) {
+        int num = min(count, k);
+        vc.push_back(num * val);
+        count -= num;
+    }
+}
+```
 
+---
 Задачи на эту тему:
 [[Codeforces F 105053 - Fair Distribution]]

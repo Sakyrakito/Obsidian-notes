@@ -87,17 +87,13 @@ void solve() {
             flag = true;
     }
 
-    vector<int> vc;
-    for (auto [x, k] : cnt) {
-        int t = (int)log2(k + 1);
-        int p = 1;
-        vc.push_back(x);
-        for (int i = 1; i < t; i++) {
-            p *= 2;
-            vc.push_back(p * x);
+    vector<int> vc; // сокращаем рюкзак
+    for (auto [val, count] : cnt) {
+        for (int k = 1; count > 0; k <<= 1) {
+            int num = min(count, k);
+            vc.push_back(num * val);
+            count -= num;
         }
-        if (x * (k + 1 - (1ll << p)) != 0)
-            vc.push_back(x * (k + 1 - (1ll << p)));
     }
 
     bitset<200'001> bt;
